@@ -8,7 +8,9 @@
 
 [Brief Introduction]
 
-My name is Jared, and I am a recent graduate with a bachelor's degree in cybersecurity. I have a deep passion for cybersecurity and am particularly enthusiastic about ethical hacking and exploring critical topics in the field. With 17 years of service in the United States Army, I bring discipline and dedication to my pursuits. In my personal time, I enjoy creating memories with my family, traveling, visiting theme parks, reading, attending concerts, and embracing the outdoors.
+My name is Jared, and I am a recent graduate with a bachelor's degree in cybersecurity. I have a deep passion for cybersecurity and am particularly enthusiastic about ethical hacking and exploring critical topics in the field. With 17 years of service in the United States Army, I bring discipline and dedication to my pursuits. In my personal time, I enjoy creating memories with my family, traveling, visiting theme parks, reading, attending concerts, and embracing the outdoors. 
+
+I am currently working on my Masters in Cybersecurity.
 
 ## Objective
 
