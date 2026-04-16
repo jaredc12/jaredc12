@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Jarec12
-- www.linkedin.com/in/jaredcecil
+- 👋 Hi, I’m Jared AKA (CyberOpsVeteran)
+- www.linkedin.com/in/cyberopsveteran/
 - 👀 I’m interested in learning about cybersecurity, ethical hacking, coding, python.
 - 🌱 I’m currently learning ethical hacking
 - 💞️ I’m looking to collaborate on cybersecurity projects
